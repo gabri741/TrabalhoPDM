@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281932469167",
+    "firebase_url": "https://moviesstorage-6625f.firebaseio.com",
+    "project_id": "moviesstorage-6625f",
+    "storage_bucket": "moviesstorage-6625f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281932469167:android:48409cc7c25126d274955a",
+        "android_client_info": {
+          "package_name": "com.iesb.moviesstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281932469167-u6k4aqojr3cm52c041nopl84m9pd4b34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9msFw5w5Tl-t7XWvZ3Zg_2qvZMQptk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281932469167-u6k4aqojr3cm52c041nopl84m9pd4b34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
