@@ -1,2 +1,6 @@
 # TrabalhoPDM
-Gabriel Martins Caldas e Almeida - 1612082068
+
+
+App criado no AndroidStudio que consome uma API rest de filmes, para listar os melhores filmes e suas respectivas sinopses.
+
+
